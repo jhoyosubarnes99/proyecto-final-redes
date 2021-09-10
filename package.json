@@ -1,0 +1,19 @@
+{
+  "name": "v.1",
+  "version": "1.0.0",
+  "description": "proyecto final redes",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "keywords": [],
+  "author": "jose antonio hoyos, ariana rodriguez, jorge sierra",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "json": "^11.0.0",
+    "nodemon": "^2.0.12",
+    "socket.io": "^4.2.0"
+  }
+}
